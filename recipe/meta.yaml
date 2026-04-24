@@ -41,6 +41,7 @@ test:
     - pip
     - mock
     - pytest
+    - vcrpy
 
 about:
   home: https://github.com/microsoft/knack
